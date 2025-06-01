@@ -1,0 +1,197 @@
+2025-03-13 13:27:53,151 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.26:5000
+2025-03-13 13:27:53,153 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-13 13:27:53,156 - INFO -  * Restarting with stat
+2025-03-13 13:27:57,005 - WARNING -  * Debugger is active!
+2025-03-13 13:27:57,012 - INFO -  * Debugger PIN: 665-571-554
+2025-03-13 13:28:09,494 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:11,113 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:11,114 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:11] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:11,137 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:12,042 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:12,043 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:12] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:14,493 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:15,344 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:15,344 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:15] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:25,228 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:26,184 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:26,184 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:26] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:28,116 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:29,003 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:29,004 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:29] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:29,016 - INFO - Request from 127.0.0.1: GET /dashboard/
+2025-03-13 13:28:29,020 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:29,020 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:29] "GET /dashboard/ HTTP/1.1" 200 -
+2025-03-13 13:28:29,465 - INFO - Request from 127.0.0.1: GET /dashboard/_dash-layout
+2025-03-13 13:28:29,466 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:29,467 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:29] "GET /dashboard/_dash-layout HTTP/1.1" 200 -
+2025-03-13 13:28:29,467 - INFO - Request from 127.0.0.1: GET /dashboard/_dash-dependencies
+2025-03-13 13:28:29,468 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:29,469 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:29] "GET /dashboard/_dash-dependencies HTTP/1.1" 200 -
+2025-03-13 13:28:29,703 - INFO - Request from 127.0.0.1: GET /dashboard/_dash-component-suites/dash/dcc/async-graph.js
+2025-03-13 13:28:29,704 - INFO - Request from 127.0.0.1: GET /dashboard/_dash-component-suites/plotly/package_data/plotly.min.js
+2025-03-13 13:28:29,705 - INFO - Response to 127.0.0.1: 304 NOT MODIFIED
+2025-03-13 13:28:29,707 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:29] "[36mGET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-13 13:28:29,710 - INFO - Request from 127.0.0.1: GET /dashboard/_favicon.ico
+2025-03-13 13:28:29,713 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:29,714 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:29] "GET /dashboard/_favicon.ico?v=2.18.2 HTTP/1.1" 200 -
+2025-03-13 13:28:29,731 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:29,734 - INFO - Response to 127.0.0.1: 304 NOT MODIFIED
+2025-03-13 13:28:29,777 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:29] "[36mGET /dashboard/_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-13 13:28:30,838 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:30,838 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:30] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:34,706 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:35,563 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:35,564 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:35] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:40,493 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:41,347 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:41,348 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:41] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:45,513 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:46,537 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:46,538 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:46] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:51,495 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:52,423 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:52,424 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:52] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:56,443 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:28:57,401 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:28:57,401 - INFO - 127.0.0.1 - - [13/Mar/2025 13:28:57] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:28:59,723 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:00,791 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:00,792 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:00] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:04,710 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:05,631 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:05,632 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:05] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:09,708 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:10,747 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:10,748 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:10] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:16,496 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:17,418 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:17,419 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:17] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:21,495 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:22,458 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:22,459 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:22] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:26,503 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:27,482 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:27,482 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:27] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:31,503 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:32,612 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:32,613 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:32] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:36,500 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:37,478 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:37,479 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:37] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:41,506 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:42,439 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:42,439 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:42] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:46,495 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:47,501 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:47,502 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:47] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:51,492 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:52,430 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:52,431 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:52] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:29:56,516 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:29:58,424 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:29:58,457 - INFO - 127.0.0.1 - - [13/Mar/2025 13:29:58] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:01,555 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:05,075 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:05,097 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:05] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:06,557 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:09,757 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:09,764 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:09,767 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:09] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:12,011 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:12,025 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:12] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:14,722 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:18,549 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:18,580 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:18] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:19,777 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:21,113 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:21,114 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:21] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:24,718 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:25,626 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:25,627 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:25] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:29,723 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:31,898 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:31,901 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:31] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:34,801 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:36,589 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:36,590 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:36] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:39,722 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:40,804 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:40,804 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:40] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:44,711 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:45,713 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:45,714 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:45] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:51,497 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:52,372 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:52,373 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:52] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:30:55,470 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:30:56,502 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:30:56,503 - INFO - 127.0.0.1 - - [13/Mar/2025 13:30:56] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:01,508 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:02,384 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:02,385 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:02] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:06,489 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:07,456 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:07,456 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:07] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:11,499 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:12,596 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:12,597 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:12] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:16,488 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:17,421 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:17,422 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:17] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:21,491 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:22,410 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:22,410 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:22] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:26,515 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:27,433 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:27,433 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:27] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:31,500 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:32,329 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:32,329 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:32] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:36,487 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:37,419 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:37,420 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:37] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:41,496 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:42,390 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:42,391 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:42] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:46,489 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:47,462 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:47,462 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:47] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:49,708 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:50,610 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:50,610 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:50] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:54,707 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:31:55,692 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:31:55,693 - INFO - 127.0.0.1 - - [13/Mar/2025 13:31:55] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:31:59,722 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:00,667 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:00,667 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:00] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:04,710 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:05,694 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:05,695 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:05] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:09,709 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:10,653 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:10,654 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:10] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:14,724 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:15,581 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:15,582 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:15] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:19,723 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:20,665 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:20,665 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:20] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:24,717 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:25,592 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:25,593 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:25] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:29,723 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:30,572 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:30,572 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:30] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:34,743 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:36,886 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:36,921 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:36] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:39,735 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:41,759 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:41,775 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:41] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
+2025-03-13 13:32:44,717 - INFO - Request from 127.0.0.1: POST /dashboard/_dash-update-component
+2025-03-13 13:32:45,791 - INFO - Response to 127.0.0.1: 200 OK
+2025-03-13 13:32:45,791 - INFO - 127.0.0.1 - - [13/Mar/2025 13:32:45] "POST /dashboard/_dash-update-component HTTP/1.1" 200 -
