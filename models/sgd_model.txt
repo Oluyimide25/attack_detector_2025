@@ -1,0 +1,18 @@
+Model: SGDClassifier
+Accuracy: 0.9882
+Precision: 0.9939
+Recall: 0.9824
+F1 Score: 0.9881
+
+Feature Importance (Top 10 Features):
+              Feature  Importance
+       ACK Flag Count    0.104824
+         Fwd IAT Mean    0.086076
+Bwd Packet Length Min    0.059904
+   Init Bwd Win Bytes    0.020244
+Fwd Packet Length Max    0.015718
+       URG Flag Count    0.014040
+    Packet Length Max    0.013759
+    Packet Length Std    0.004923
+           Active Min    0.003958
+          Fwd IAT Max    0.001808

@@ -1,0 +1,18 @@
+Model: PassiveAggressive
+Accuracy: 0.9875
+Precision: 0.9961
+Recall: 0.9789
+F1 Score: 0.9874
+
+Feature Importance (Top 10 Features):
+              Feature  Importance
+      Avg Packet Size    0.480145
+Fwd Packet Length Min    0.123618
+    Packet Length Max    0.107430
+         Fwd IAT Mean    0.102072
+       URG Flag Count    0.076420
+    Packet Length Min    0.068797
+          Fwd IAT Std    0.055611
+Fwd Packet Length Std    0.052351
+       ACK Flag Count    0.051203
+          Fwd IAT Max    0.047993
